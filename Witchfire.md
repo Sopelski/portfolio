@@ -30,6 +30,3 @@ Reproduction rate - 4/4
 5. Check if player clips through the part of the pilar and is able to look inside.
 
 [Watch video reproduction](https://youtu.be/F-b7AF8tjSU)
-
-
-

@@ -44,6 +44,3 @@ I'm a senior QA tester in the gaming industry. During my career I mostly worked 
 ## Languages
 - Polish – native
 - English – C1
-
-
-
